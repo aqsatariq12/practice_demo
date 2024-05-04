@@ -1,4 +1,4 @@
 # practice_demo
 This is my first Git Repository
 <br>
-Author - Aqsa Tariq
+Author - AqsaTariq
